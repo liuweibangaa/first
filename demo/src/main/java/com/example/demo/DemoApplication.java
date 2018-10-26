@@ -25,7 +25,7 @@ public class DemoApplication {
     public String test(Model model){
         model.addAttribute("name","99");
         model.addAttribute("num","22");
-        System.out.println("新增的内容");
+        System.out.println("新增的aaaaa");
         return "show";
     }
 
